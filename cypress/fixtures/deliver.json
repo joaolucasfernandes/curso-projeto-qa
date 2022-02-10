@@ -1,0 +1,54 @@
+{
+    "signup": {
+        "name": "daniel carvalho",
+        "cpf": "41329344898",
+        "email": "danielcarvalho@gmail.com",
+        "whatsapp": "12974014696",
+        "address": {
+            "postalcode": "12282550",
+            "street": "Rua Guilherme de Almeida",
+            "number": "40",
+            "details": "ap 607",
+            "district": "Jardim Campo Grande",
+            "city_state": "Caçapava/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "cpf_inv": {
+        "name": "daniel carvalho",
+        "cpf": "Xd1329344898AA",
+        "email": "danielcarvalho@gmail.com",
+        "whatsapp": "12974014696",
+        "address": {
+            "postalcode": "12282550",
+            "street": "Rua Guilherme de Almeida",
+            "number": "40",
+            "details": "ap 607",
+            "district": "Jardim Campo Grande",
+            "city_state": "Caçapava/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "email_inv": {
+        "name": "daniel carvalho",
+        "cpf": "41329344898",
+        "email": "danielcarvalho.com.br",
+        "whatsapp": "12974014696",
+        "address": {
+            "postalcode": "12282550",
+            "street": "Rua Guilherme de Almeida",
+            "number": "40",
+            "details": "ap 607",
+            "district": "Jardim Campo Grande",
+            "city_state": "Caçapava/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+} 
+
